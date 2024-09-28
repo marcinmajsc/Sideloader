@@ -1,4 +1,4 @@
-name: CLI builds
+name: CLI builds 
 
 on: push
 
